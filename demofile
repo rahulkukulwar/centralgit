@@ -1,2 +1,4 @@
-creation of file for stash check
 
+first create empty file and add and commit it then only you may able to stash it.
+new file can not be stash if it is not add and commit
+>>>>>>> Stashed changes
